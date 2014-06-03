@@ -1,1 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:gap = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id = "com.ajsoftware.lynda.samoca"
+    versionCode = "1">
+    <name>SAMOCA</name>
+    <description>Sample app</description>
+  <author href="samoca.org"
+  email="support@samoca.org">
+    Chris Griffith
+  </author>
+  </widget>
